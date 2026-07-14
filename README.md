@@ -5,10 +5,3 @@
   <img src="dark_full_ascii (2).svg" alt="Hrushikesh Karnam banner" width="100%">
 </picture>
 </div>
-<br>
-<div align="center">
-Hi, I'm Hrushikesh Karnam 👋
-
-Frontend Engineer · Full Stack Developer · Open Source Contributor
-
-</div>
